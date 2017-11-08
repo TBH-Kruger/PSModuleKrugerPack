@@ -1,4 +1,5 @@
-# PSModuleKrugerPack
+﻿# PSModuleKrugerPack
+Master of KrugerPack.psm1 should be located at C:\Dropbox\Powershell\Modules\KrugerPack or at least somewhere else included in the $env:PSModulePath
 
 ## Functions in this module:
 
